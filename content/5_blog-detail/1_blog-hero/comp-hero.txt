@@ -1,0 +1,7 @@
+Title: Blog-Hero
+
+----
+
+Hero-image:
+
+- blog-hero.jpg

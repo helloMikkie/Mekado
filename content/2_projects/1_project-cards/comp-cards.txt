@@ -1,0 +1,15 @@
+Title: Project-Cards
+
+----
+
+Layout: black
+
+----
+
+Images:
+
+- project-cover-gottingen.jpg
+- 05-hotel-lobby-1.jpg
+- 160818-extension-kohlenhalle_4-1.jpg
+- 170608-render-1-12-1.jpg
+- 180309-render-1-1.jpg

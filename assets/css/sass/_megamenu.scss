@@ -1,0 +1,94 @@
+.megamenu {
+  width: 100vw;
+  height: calc(100vh - 20px);
+  position: absolute;
+  color: red;
+  top: 20px;
+  left: 0;
+  background-image: url("/assets/images/bg-megamenu.jpg");
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: $c-white;
+  overflow: hidden;
+}
+.megamenu-close {
+  padding-top: 0.35rem;
+  img {
+    width: 24px;
+    height: 24px;
+  }
+}
+
+.megamenu-content {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  margin: 4rem 1rem;
+  height: calc(100vh - 10rem);
+}
+
+.megamenu-links li {
+  padding-bottom: 0.5rem ; 
+}
+
+.megamenu-links a {
+  color: $c-white;
+  text-decoration: none;
+  text-transform: uppercase;
+  font-size: $fs-xx-large;
+  line-height: 1;
+
+}
+
+.sublinks:first-child {
+  margin-bottom: 1rem;
+}
+.sublinks li {
+  margin-bottom: 0.3rem;
+  font-size: $fs-medium;
+}
+
+@media(min-width: 34rem){
+  .megamenu-content{
+    margin: 4rem 2.75rem;
+  }
+}
+@media (min-width: 48rem) {
+  .megamenu-close {
+    padding-top: 0.8rem ;
+    img {
+      width: 32px;
+      height: 32px;
+    }
+  }
+  .megamenu-content {
+    display: flex;
+    flex-direction: row;
+    height: auto;
+    max-width: 64rem; 
+  }
+  .megamenu-links li{
+    padding-bottom: 2rem; 
+  }
+  .megamenu-links a {
+    font-size: 5.5rem;
+  }
+  .megamenu-sublinks {
+    width: 33.333%;
+    transform: translateY(50%);
+  }
+  .sublinks li {
+    font-size: $fs-large;
+  }
+}
+
+@media (min-width: 64rem) {
+  .megamenu-content{
+    margin-left: auto; 
+    margin-right: auto; 
+  }
+  .megamenu-links a{
+    font-size: 7.5rem;
+  }
+}

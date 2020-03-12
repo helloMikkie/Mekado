@@ -1,0 +1,17 @@
+title: Cards
+icon: image
+
+fields:
+  layout:
+    type: select
+    options:
+      - purple
+      - white
+      - black
+  images:
+    type: files
+    template: comp-cards
+    layout: cards
+    size: tiny
+    info: "{{ file.size }}"
+

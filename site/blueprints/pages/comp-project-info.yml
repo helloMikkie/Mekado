@@ -1,0 +1,19 @@
+title: Project Info
+icon:  text
+
+
+fields:
+  item:
+    label: Tabelle
+    type: structure
+    fields:
+      heading: 
+        label: Heading
+        type: text
+      text:
+        label: description
+        type: text
+      
+
+
+

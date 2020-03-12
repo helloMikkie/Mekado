@@ -1,0 +1,29 @@
+Title: Project-Info
+
+----
+
+Item:
+
+- 
+  heading: Client
+  text: >
+    WG wohnen+sparen Wohnungsgenossenschaft
+    eG Göttingen
+- 
+  heading: Location
+  text: Göttingen Germany
+- 
+  heading: Year
+  text: "2017"
+- 
+  heading: Task
+  text: Design competition
+- 
+  heading: Status
+  text: Competition
+- 
+  heading: Area
+  text: 12.530 sqm  GFA
+- 
+  heading: Programme
+  text: Housing and Parking

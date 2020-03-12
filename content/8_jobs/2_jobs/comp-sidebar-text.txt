@@ -1,0 +1,27 @@
+Title: Jobs
+
+----
+
+Layout: black
+
+----
+
+Headline: Jobs
+
+----
+
+Subheadline: 
+
+----
+
+Sidebar-text: 
+
+----
+
+Text:
+
+We are always looking for talented architects and designers to strengthen our team in Berlin.
+
+To apply, please submit your resume, portfolio (max. 5 MB) and cover letter to office(at)mekado.eu 
+
+Due to the volume of applications we receive, we cannot respond to all applicants individually.

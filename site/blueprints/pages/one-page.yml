@@ -1,0 +1,19 @@
+title: One Pager
+
+
+sections:
+  parts:
+    headline: Components
+    type: pages
+    status: all
+    info: "{{ page.intendedTemplate }}"
+    image: false
+    templates:
+      - comp-headline
+      - comp-introtext
+      - comp-project-info
+      - comp-service
+      - comp-sidebar-text
+      - comp-hero
+      - comp-cards
+      - comp-scroll-slider

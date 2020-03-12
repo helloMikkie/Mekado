@@ -1,0 +1,38 @@
+Title: Profile-Text
+
+----
+
+Layout: white
+
+----
+
+Headline: Contact
+
+----
+
+Subheadline: 
+
+----
+
+Sidebar-text:
+
+MEKADO 
+Lobeckstr 30-35 / 105
+10969 Berlin, Germany
+
++49 30 209 665 980
+offic(at)mekado.eu
+
+----
+
+Text:
+
+MEKADO gestaltet seit 2015 räumliche Innovationen in den Bereichen Städtebau, Architektur und Innenraumgestaltung, mit einem starken Fokus auf soziale und ökologische Integration. Wobei unser multidisziplinär arbeitendes Team von fünf kreativen Köpfen danach strebt einen Mehrwert zu schaffen, den gute Gestaltung für ein Produkt, ein Gebäude oder auch städtisches Umfeld birgt, insbesondere als langfristige Investition in die Zukunft.
+
+Wir sind darauf spezialisiert maßgeschneiderte und nachhaltige Lösungen für eine Vielzahl von Herausforderungen in Gestaltung, Architektur und Stadtentwicklung zu formen.
+
+In unseren Entwürfen begeistern wir uns für den Prozess des Experimentierens und verfolgen die sinnliche Nutzung von Raum, Programm/Konzept und Materialität. Unser besonderes Augenmerk liegt dabei auf dem verantwortungsvollen Umgang mit sämtlichen Ressourcen. Wir setzten uns für nachhaltig gestaltete Architektur ein, der nicht nur die Umwelt, sondern auch die darin lebende Gemeinschaft wichtig ist. Weshalb auch alle unsere Projekte in engem Dialog mit ihrer Umwelt und deren Gemeinschaft entwickelt werden.
+
+Das Erarbeiten von integrierten und ganzheitlichen Lösungen wird von uns als wesentlicher Wert angesehen. Genauso schätzen wir es, auch das Ungeplante und Unfertige als gestalterische Kraft in die Planung miteinzubeziehen, wodurch individuell angepasste Entwürfe entstehen.
+
+Die programmatische Konzeption spielt hierbei eine wichtige Rolle. Da wir Architektur als einen prozesshaften Diskurs betrachten, kooperiert unser Studio von Beginn an mit ausgewählten Experten und Fachplanern.

@@ -1,0 +1,13 @@
+Project: 
+
+----
+
+Date: 2020-10-15
+
+----
+
+Teaser: Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Sed posuere consectetur est at lobortis. Donec ullamcorper nulla non metus auctor fringilla.
+
+----
+
+Template: comp-cards

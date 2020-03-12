@@ -1,0 +1,14 @@
+title: Services
+
+
+sections:
+  parts:
+    headline: Components
+    type: pages
+    status: all
+    info: "{{ page.intendedTemplate }}"
+    image: false
+    templates:
+      - comp-text
+      - comp-service
+    

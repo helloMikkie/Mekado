@@ -1,0 +1,19 @@
+title: Sidebar Text
+icon: text
+
+fields:
+  layout:
+    type: select
+    options:
+      - black
+      - purple
+      - white
+  headline:
+    type: text
+  subheadline:
+    type: textarea
+  sidebar_text:
+    type: textarea
+  text:
+    type: textarea
+    required: true

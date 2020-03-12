@@ -1,0 +1,7 @@
+Title: Project-Hero
+
+----
+
+Hero-image:
+
+- start-up-office-diner.jpg

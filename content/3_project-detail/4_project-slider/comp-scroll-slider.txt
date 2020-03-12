@@ -1,0 +1,10 @@
+Title: Project-Slider
+
+----
+
+Images:
+
+- start-up-office-work-station2.jpg
+- start-up-office-diner2.jpg
+- start-up-office-open-space.jpg
+- reception-counter.png

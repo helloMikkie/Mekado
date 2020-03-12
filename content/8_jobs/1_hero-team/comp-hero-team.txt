@@ -1,0 +1,22 @@
+Title: Hero-Team
+
+----
+
+Hero-image:
+
+- profile-hero.jpg
+
+----
+
+Team:
+
+- 
+  name: Jessika Adler
+- 
+  name: Mandy Zimmerman
+- 
+  name: Slavis Lew Poczebutas
+- 
+  name: Alexander Schäfer
+- 
+  name: Marissa Engel

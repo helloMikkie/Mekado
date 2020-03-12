@@ -1,0 +1,19 @@
+title: Service
+icon: text
+
+
+fields:
+  service:
+    label: Service
+    type: text
+  item:
+    label: Liste
+    type: structure
+    fields:
+      heading: 
+        label: Heading
+        type: text
+      text:
+        label: Description
+        type: textarea
+      

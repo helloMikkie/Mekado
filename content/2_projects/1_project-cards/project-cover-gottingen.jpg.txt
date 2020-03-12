@@ -1,0 +1,13 @@
+Project: Göttingen
+
+----
+
+Date: 
+
+----
+
+Teaser: 
+
+----
+
+Template: comp-cards

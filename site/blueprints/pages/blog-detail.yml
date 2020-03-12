@@ -1,0 +1,13 @@
+title: Blog-Detail
+
+
+sections:
+  parts:
+    headline: Components
+    type: pages
+    status: all
+    info: "{{ page.intendedTemplate }}"
+    image: false
+    templates:
+      - comp-hero
+      - comp-sidebar-text

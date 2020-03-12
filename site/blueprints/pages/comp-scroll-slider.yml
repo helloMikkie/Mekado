@@ -1,0 +1,10 @@
+title: Scroll-Slider
+icon: image
+
+fields:
+  images:
+    type: files
+    layout: cards
+    size: tiny
+
+

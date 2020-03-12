@@ -1,0 +1,192 @@
+
+
+// + + + + + + + Projects + + + + +
+
+.project-title{
+  font-size: $fs-large; 
+  text-transform: uppercase;
+  letter-spacing: $x-tracked; 
+}
+
+@media (min-width: 48rem){
+  .project-title{
+    font-size: $fs-xx-large; 
+  }
+}
+
+
+// Project-Detail: Introtext
+
+.intro-headline{
+  margin-bottom: 2rem; 
+  font-size: $fs-large;
+  line-height: $tight; 
+}
+.intro-headline-uc{
+  text-transform: uppercase; 
+  letter-spacing: $x-tracked; 
+}
+
+.intro-subheadline{
+  margin-bottom: 2rem; 
+  font-size: $fs-large;
+}
+
+.intro-sidebar-text p{
+  margin-bottom: 2rem; 
+  font-size: $fs-regular;
+  line-height: 1.5;  
+}
+
+.intro-text {
+  margin-bottom: 3rem;
+  // font-size: $fs-medium;
+  line-height: $normal;  
+}
+  .intro-text p {
+    margin-bottom: 2rem;
+  }
+  .intro-text p:last-child{
+    margin-bottom: 0; 
+  }
+
+@media (min-width: 48rem){
+  .intro-headline{
+    font-size: $fs-x-large; 
+  }
+  .intro-text p{
+    font-size: $fs-medium;
+  }
+  .intro-sidebar-text p{
+    font-size: $fs-medium;
+  }
+}
+
+@media (min-width: 64rem){
+  .intro-headline{
+    font-size: $fs-xx-large;
+    max-width: 40ch;  
+  }
+ 
+  .intro-subheadline{
+    font-size: $fs-x-large; 
+  }
+  .intro-sidebar-text p{
+    font-size: $fs-large;
+  }
+  .intro-text p{
+    font-size: $fs-large;
+    max-width: 70ch; 
+  }
+}
+
+
+
+
+// Project-Detail: Project-Info
+.project-info {
+  width: 100%;
+}
+
+.project-info-category{
+  text-align: left;
+  padding-top: 1rem;
+  font-size: $fs-medium;
+  text-transform: uppercase; 
+  letter-spacing: $x-tracked;
+}
+.project-info-text{
+  padding-bottom: 1rem;
+  border-bottom: 1px solid $c-white;
+  font-size: $fs-medium;
+}
+
+
+@media (min-width: 64rem){
+  .project-info-category{
+    display: none; 
+  }
+  td::before{
+    content: attr(data-label);
+    word-wrap: break-word; 
+    width: 20%;
+    float: left;
+    font-size: $fs-large; 
+    text-transform: uppercase;
+    letter-spacing: $x-tracked; 
+    margin-top: 0.5rem;
+  }
+  .project-info-text p {
+    font-size: $fs-large;
+    margin-top: 0.5rem; 
+  }
+}
+
+
+
+
+
+
+// + + + + About: Service + + + + + 
+
+.service {
+  margin-bottom: 0.5rem;
+}
+
+
+.service-category{
+  font-size: $fs-medium;
+  text-transform: uppercase;
+  line-height: $tight; 
+  margin-bottom: 1rem;
+  letter-spacing: $x-tracked;   
+}
+
+.service-text * + .service-category{
+  margin-top: 1rem; 
+}
+
+.service-text p {
+  padding-bottom: 1rem;
+  border-bottom: 1px solid $c-white;
+}
+.service-text :last-child{
+  border: none; 
+}
+
+@media (min-width: 48rem){
+  .service-category{
+    font-size: $fs-large; 
+  }
+  .service-text p{
+    font-size: $fs-medium; 
+    line-height: $normal; 
+  }
+}
+
+//  + + + + + About: Jobs + + + + 
+
+.container-jobs{
+  padding: 1rem; 
+
+}
+// + + + + + + Team-Hero, Captions
+
+.hero-caption{
+  margin-top: 0.5rem;
+  margin-left: 1rem; 
+  margin-bottom: 3rem;
+
+}
+.hero-caption li{
+  margin-right: 0.3rem; 
+  margin-bottom: 0.3rem;
+  font-size: $fs-medium; 
+}
+
+@media (min-width: 64rem){
+  .hero-caption li{
+    display: inline-block; 
+    font-size: $fs-regular; ;
+  }
+}

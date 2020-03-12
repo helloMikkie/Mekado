@@ -1,0 +1,9 @@
+title: Card
+
+fields:
+  project:
+    type: text
+  date:
+    type: date
+  teaser:
+    type: textarea

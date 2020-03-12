@@ -1,0 +1,9 @@
+title: Hero
+icon: image
+
+
+fields:
+  hero_image:
+    type: files
+    layout: cards
+    size: tiny

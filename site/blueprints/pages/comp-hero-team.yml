@@ -1,0 +1,19 @@
+title: Hero Team
+icon: image
+
+
+fields:
+  hero_image:
+    type: files
+    layout: cards
+    size: tiny
+  team:
+    label: Team
+    type: structure
+    fields:
+      name: 
+        label: Name
+        type: text
+
+      
+  

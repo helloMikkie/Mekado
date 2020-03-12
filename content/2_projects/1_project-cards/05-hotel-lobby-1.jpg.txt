@@ -1,0 +1,13 @@
+Project: Karl-August
+
+----
+
+Date: 
+
+----
+
+Teaser: 
+
+----
+
+Template: comp-cards

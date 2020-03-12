@@ -1,0 +1,9 @@
+title: Intro Text
+icon: text
+
+fields:
+  headline:
+    type: text
+  text:
+    type: textarea
+    required: true

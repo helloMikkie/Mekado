@@ -1,0 +1,29 @@
+@import 'sass/reset.scss';
+@import 'sass/typography.scss';
+@import 'sass/header-footer.scss';
+@import 'sass/megamenu.scss';
+@import 'sass/cards.scss';
+@import 'sass/layout.scss';
+@import 'sass/texts.scss';
+
+
+
+* {
+    // outline: 1px solid silver;
+}
+
+
+
+// Menu für unterschiedloiche Seitentemplates
+// Nicht Bestandteil des LAyout 
+
+.content-menu {
+    background: silver;
+    color: #000;
+    a {
+      color: #000;
+      margin-right: 0.5rem;
+      text-transform: uppercase;
+      text-decoration: none;
+    }
+  }

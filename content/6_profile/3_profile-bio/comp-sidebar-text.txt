@@ -1,0 +1,32 @@
+Title: Profile-Bio
+
+----
+
+Layout: white
+
+----
+
+Headline: 
+
+----
+
+Subheadline: Slavis Lew Poczebutas
+
+----
+
+Sidebar-text:
+
+Dipl. Ing. Architekt
+Geschäftsführer
+
+----
+
+Text:
+
+is an Architect and Urbanist and the Managing Partner of MEKADO, working internationally in strategic urban planning, design and architecture. He has worked equally on large-scale, complex projects as well as small-scale projects including private houses, interiors and temporary structures. Before founding MEKADO 2015 in Berlin, he worked as Project Director at the Office for Metropolitan Architecture alongside Rem Koolhaas. There he led the design and management of various large-scale projects such as the New Media Headquarters for Axel Springer in Berlin or the New Hamad International Airport City development and Media City Masterplan in Qatar.
+
+Before joining OMA, he worked as a Project Leader in the international multidisciplinary design firm Arup, both in London and Hong Kong. Here he worked together with some of the industries most brilliant minds, managing a range of cross-disciplinary and integrated urban development projects and eco cities globally.
+
+Slavis has in depth experience in the design of buildings, their interiors, the urban spaces in between and the technologies to operate them. His focus lies in environmental sustainability in the fields of architecture and urban planning. Across his career he has supervised projects such as Wanzhuang Eco-City of Agriculture in Beijing, the Integrated Development Strategy for Ninh Thuan Province in Vietnam or was advisor to the Asian Cities Climate Change Resilience Network funded by the Rockefeller foundation.
+
+Slavis holds a degree in Architecture from the School of Architecture at the University of Technology Berlin and London Metropolitan University. He is Guest Professor and a visiting critic at various universities and speaks regularly at both academic and professional forums.

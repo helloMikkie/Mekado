@@ -1,0 +1,67 @@
+// Colors
+$c-black: #111; 
+$c-white: #eee;
+$c-purple: #6703B6; 
+
+// Font-size
+$fs-xx-large: 2.625rem;
+$fs-x-large: 2rem; 
+$fs-large:  1.5rem;
+$fs-medium: 1.125rem; 
+$fs-regular: 1rem;
+$fs-small: 0.85rem; 
+
+// Letter-spacing
+$tracked: 0.03rem; 
+$x-tracked: 0.08rem;
+
+// line-height
+$tight: 1.2; 
+$normal: 1.5; 
+
+
+@font-face {
+  font-family: "styrene-italic";
+  src: url("../fonts/StyreneB-LightItalic-Web.woff2") format("woff2"),
+    url("../fonts/StyreneB-LightItalic-Web.woff") format("woff");
+  font-weight: 300;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: "styrene-regular";
+  src: url("../fonts/StyreneB-Light-Web.woff2") format("woff2"),
+    url("../fonts/StyreneB-Light-Web.woff") format("woff");
+  font-weight: 300;
+  font-style: normal;
+
+
+}
+
+html {
+  font-family: "styrene-regular";
+  color: #111;
+  font-feature-settings: 'ss01' on;
+
+
+}
+
+// + + + + + + Type-Colors + + + + + + + + + + + + + + + + + + + + + +
+
+.white{
+  color: $c-white; 
+}
+.black{
+  color: $c-black;
+}
+.purple{
+  color: $c-purple;
+}
+
+.bg-black{
+  background: $c-black; 
+  color: $c-white; 
+  padding: 0; 
+}
+
+

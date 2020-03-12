@@ -1,0 +1,16 @@
+title: Project-Detail
+
+
+sections:
+  parts:
+    headline: Components
+    type: pages
+    status: all
+    info: "{{ page.intendedTemplate }}"
+    image: false
+    templates:
+      - comp-headline
+      - comp-hero
+      - comp-introtext
+      - comp-scroll-slider
+      - comp-project-info

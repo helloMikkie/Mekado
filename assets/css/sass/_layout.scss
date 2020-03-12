@@ -1,0 +1,40 @@
+
+// + + + + Classes for Image Slider > slider.js
+
+.slider-item {
+    opacity: 0;
+    transform: translate(0, 120px);
+    transition: all 0.2s ease-in;
+    position: -webkit-sticky;
+    position: sticky;
+    top: 0;
+}
+
+.slider-item.in-view {
+    transform: translate(0, 0);
+    opacity: 1;
+}
+
+
+//  + + + Responsive Layout 2-columns for Text-Components
+
+.with-sidebar {
+    overflow: hidden;
+ 
+}
+
+  .with-sidebar > * {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+  .with-sidebar > * > * {
+    flex-grow: 1;
+    flex-basis: 30rem;
+}
+
+  .with-sidebar > * > :last-child {
+    flex-basis: 0;
+    flex-grow: 999;
+    min-width: 60%;
+}
