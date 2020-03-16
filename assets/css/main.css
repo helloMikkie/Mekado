@@ -490,6 +490,30 @@ footer a {
   margin-top: 1rem;
 }
 
+.project-card-image {
+  position: relative;
+}
+
+.project-card-image::before {
+  content: "";
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  background: rgba(0, 0, 0, 0.65);
+  top: 0;
+  left: 0;
+}
+
+.ikon-fullscreen {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  width: 56px;
+  height: 56px;
+  -webkit-transform: translate(-50%, -50%);
+          transform: translate(-50%, -50%);
+}
+
 .blog-cards {
   position: relative;
   margin-bottom: 2rem;
