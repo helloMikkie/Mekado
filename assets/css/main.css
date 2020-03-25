@@ -704,6 +704,78 @@ footer a {
   }
 }
 
+.slider-text {
+  background: #fff;
+  padding: 1rem;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  color: #111;
+}
+
+.slider-nav {
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+  margin-left: auto;
+  margin-right: auto;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  width: 120px;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+}
+
+.icon-arrow {
+  width: 32px;
+}
+
+.slider-text-text h2 {
+  font-size: 1.5rem;
+  margin-bottom: 2rem;
+  line-height: 1.2;
+}
+
+.slider-text-text p {
+  line-height: 1.5;
+}
+
+@media (min-width: 34rem) {
+  .slider-text {
+    padding: 3rem;
+  }
+}
+
+@media (min-width: 48rem) {
+  .slider-text {
+    -webkit-box-orient: horizontal;
+    -webkit-box-direction: normal;
+        -ms-flex-direction: row;
+            flex-direction: row;
+  }
+  .slider-text-slider, .slider-text-text {
+    -ms-flex-preferred-size: 50%;
+        flex-basis: 50%;
+  }
+  .slider-text-slider {
+    margin-right: 3rem;
+  }
+  .slider-text-text h2 {
+    font-size: 2rem;
+  }
+  .slider-text-text p {
+    font-size: 1.125rem;
+  }
+}
+
 .service {
   margin-bottom: 0.5rem;
 }

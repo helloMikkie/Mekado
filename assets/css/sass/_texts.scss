@@ -123,8 +123,62 @@
 }
 
 
+// Project Slider Text
 
+.slider-text{
+  background: #fff; 
+  padding: 1rem; 
+  display: flex; 
+  flex-direction: column; 
+  color: $c-black; 
+}
+.slider-nav{
+  margin-top: 2rem;
+  margin-bottom: 2rem; 
+  margin-left: auto; 
+  margin-right: auto; 
+  display: flex;  
+  width: 120px; 
+  align-items: center;
+  justify-content: space-between
+}
 
+.icon-arrow{
+  width: 32px; 
+}
+
+.slider-text-text h2{
+  font-size: $fs-large;
+  margin-bottom: 2rem; 
+  line-height: $tight; 
+}
+.slider-text-text p{
+ line-height: 1.5; 
+}
+
+@media (min-width: 34rem){
+  .slider-text{
+    padding: 3rem; 
+  }
+}
+
+@media (min-width: 48rem){
+  .slider-text{
+    flex-direction: row; 
+  }
+  .slider-text-slider, .slider-text-text{
+    flex-basis: 50%; 
+  }
+  .slider-text-slider{
+    margin-right: 3rem; 
+  }
+  .slider-text-text h2{
+    font-size:$fs-x-large;
+  }
+  .slider-text-text p{
+    font-size: $fs-medium;
+   }
+}
 
 
 // + + + + About: Service + + + + + 

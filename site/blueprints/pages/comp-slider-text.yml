@@ -1,0 +1,15 @@
+title: Slider-Text
+icon: text
+
+fields:
+  images:
+    type: files
+    template: comp-cards
+    layout: cards
+    size: tiny
+    info: "{{ file.size }}"
+  headline:
+    type: text
+  text:
+    type: textarea
+    required: true

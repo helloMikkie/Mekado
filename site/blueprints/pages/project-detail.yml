@@ -14,3 +14,4 @@ sections:
       - comp-introtext
       - comp-scroll-slider
       - comp-project-info
+      - comp-slider-text
