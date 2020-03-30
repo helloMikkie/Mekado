@@ -23,7 +23,10 @@
     <ul class="header-links">
       <li><a href="#" class="white menu">Menu</a></li>
       <li class="menu-burger"><a href="#"><img src="assets/icons/burger-white.svg" alt="menu" ></a></li>
-      <li><a href="#" class="white language-toggle">de</a></li>
+      <ul class="language">
+        <li><a href="#" class="white language-toggle">de</a></li>
+        <li><a href="#" class="white language-toggle">en</a></li>
+      </ul>
     </ul>
 </div>
 <div class="filter">

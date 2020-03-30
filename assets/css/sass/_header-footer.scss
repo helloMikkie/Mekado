@@ -14,9 +14,12 @@
     .logo {
       margin-right: 0.6rem;
     }
-    .language-toggle {
+    .language{
       margin-left: 0.4rem;
+      font-size: 12px; 
+      padding-top: 0.2rem; 
     }
+   
   }
   a {
     text-decoration: none;
@@ -89,6 +92,10 @@
       .logo {
         margin-right: 1rem;
       }
+      .language{
+        font-size: 14px; 
+        padding-top: 0.75rem;
+      }
       .language-toggle {
         margin-left: 1rem;
       }
@@ -120,9 +127,11 @@ footer {
   margin-left: 1rem; 
   margin-right: 1rem; 
   margin-bottom: 1rem; 
-  font-size: $fs-small;
+  // font-size: $fs-small;
+  font-size: 12px;
   letter-spacing: $tracked;
 }
+
 footer a {
   color: inherit; 
   text-decoration:none;
@@ -171,7 +180,7 @@ footer a {
   footer{
     flex-direction: row;
     align-items: stretch;
-    font-size: $fs-regular;   
+    // font-size: $fs-regular;   
   }
   .footer-links{
     justify-content: space-between;
